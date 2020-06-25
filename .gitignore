@@ -1,5 +1,7 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
+brisk/__pycache__/
+orb/__pycache__/
 *.py[cod]
 *$py.class
 
@@ -101,3 +103,6 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+brisk/screenshots/
+orb/screenshots/

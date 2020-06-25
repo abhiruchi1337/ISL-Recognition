@@ -1,0 +1,76 @@
+Clustering with parameters: MiniBatchKMeans(batch_size=100, compute_labels=True, init='k-means++',
+        init_size=None, max_iter=100, max_no_improvement=10,
+        n_clusters=150, n_init=3, random_state=None,
+        reassignment_ratio=0.01, tol=0.0, verbose=0)...
+Clustering on training set to get codebook of 150 words
+done clustering. Using clustering model to generate BoW histograms for each image.
+Training examples generated.
+Train size: 2983 Test size: 1989
+======= KNN =======
+accuracy score for  K nearest neighbours 0.821015585721468
+precision_score for  K nearest neighbours 0.8342085934212251
+f1 score for  K nearest neighbours 0.8181293120902601
+recall score for  K nearest neighbours 0.821015585721468
+========  SVM  ========
+accuracy score for  SVM 0.873805932629462
+precision_score for  SVM 0.8772459279510512
+f1 score for  SVM 0.8746985827367738
+recall score for  SVM 0.873805932629462
+======Logistic Regression======
+C:\Users\Abhiruchi\Anaconda3\envs\gitproj2\lib\site-packages\sklearn\linear_model\logistic.py:757: ConvergenceWarning: lbfgs failed to converge. Increase the number of iterations.
+  "of iterations.", ConvergenceWarning)
+C:\Users\Abhiruchi\Anaconda3\envs\gitproj2\lib\site-packages\sklearn\linear_model\logistic.py:757: ConvergenceWarning: lbfgs failed to converge. Increase the number of iterations.
+  "of iterations.", ConvergenceWarning)
+C:\Users\Abhiruchi\Anaconda3\envs\gitproj2\lib\site-packages\sklearn\linear_model\logistic.py:757: ConvergenceWarning: lbfgs failed to converge. Increase the number of iterations.
+  "of iterations.", ConvergenceWarning)
+C:\Users\Abhiruchi\Anaconda3\envs\gitproj2\lib\site-packages\sklearn\linear_model\logistic.py:757: ConvergenceWarning: lbfgs failed to converge. Increase the number of iterations.
+  "of iterations.", ConvergenceWarning)
+C:\Users\Abhiruchi\Anaconda3\envs\gitproj2\lib\site-packages\sklearn\linear_model\logistic.py:757: ConvergenceWarning: lbfgs failed to converge. Increase the number of iterations.
+  "of iterations.", ConvergenceWarning)
+C:\Users\Abhiruchi\Anaconda3\envs\gitproj2\lib\site-packages\sklearn\linear_model\logistic.py:757: ConvergenceWarning: lbfgs failed to converge. Increase the number of iterations.
+  "of iterations.", ConvergenceWarning)
+C:\Users\Abhiruchi\Anaconda3\envs\gitproj2\lib\site-packages\sklearn\linear_model\logistic.py:757: ConvergenceWarning: lbfgs failed to converge. Increase the number of iterations.
+  "of iterations.", ConvergenceWarning)
+C:\Users\Abhiruchi\Anaconda3\envs\gitproj2\lib\site-packages\sklearn\linear_model\logistic.py:757: ConvergenceWarning: lbfgs failed to converge. Increase the number of iterations.
+  "of iterations.", ConvergenceWarning)
+C:\Users\Abhiruchi\Anaconda3\envs\gitproj2\lib\site-packages\sklearn\linear_model\logistic.py:757: ConvergenceWarning: lbfgs failed to converge. Increase the number of iterations.
+  "of iterations.", ConvergenceWarning)
+C:\Users\Abhiruchi\Anaconda3\envs\gitproj2\lib\site-packages\sklearn\linear_model\logistic.py:757: ConvergenceWarning: lbfgs failed to converge. Increase the number of iterations.
+  "of iterations.", ConvergenceWarning)
+C:\Users\Abhiruchi\Anaconda3\envs\gitproj2\lib\site-packages\sklearn\linear_model\logistic.py:757: ConvergenceWarning: lbfgs failed to converge. Increase the number of iterations.
+  "of iterations.", ConvergenceWarning)
+C:\Users\Abhiruchi\Anaconda3\envs\gitproj2\lib\site-packages\sklearn\linear_model\logistic.py:757: ConvergenceWarning: lbfgs failed to converge. Increase the number of iterations.
+  "of iterations.", ConvergenceWarning)
+C:\Users\Abhiruchi\Anaconda3\envs\gitproj2\lib\site-packages\sklearn\linear_model\logistic.py:757: ConvergenceWarning: lbfgs failed to converge. Increase the number of iterations.
+  "of iterations.", ConvergenceWarning)
+C:\Users\Abhiruchi\Anaconda3\envs\gitproj2\lib\site-packages\sklearn\linear_model\logistic.py:757: ConvergenceWarning: lbfgs failed to converge. Increase the number of iterations.
+  "of iterations.", ConvergenceWarning)
+C:\Users\Abhiruchi\Anaconda3\envs\gitproj2\lib\site-packages\sklearn\linear_model\logistic.py:757: ConvergenceWarning: lbfgs failed to converge. Increase the number of iterations.
+  "of iterations.", ConvergenceWarning)
+C:\Users\Abhiruchi\Anaconda3\envs\gitproj2\lib\site-packages\sklearn\linear_model\logistic.py:757: ConvergenceWarning: lbfgs failed to converge. Increase the number of iterations.
+  "of iterations.", ConvergenceWarning)
+C:\Users\Abhiruchi\Anaconda3\envs\gitproj2\lib\site-packages\sklearn\linear_model\logistic.py:757: ConvergenceWarning: lbfgs failed to converge. Increase the number of iterations.
+  "of iterations.", ConvergenceWarning)
+C:\Users\Abhiruchi\Anaconda3\envs\gitproj2\lib\site-packages\sklearn\linear_model\logistic.py:757: ConvergenceWarning: lbfgs failed to converge. Increase the number of iterations.
+  "of iterations.", ConvergenceWarning)
+C:\Users\Abhiruchi\Anaconda3\envs\gitproj2\lib\site-packages\sklearn\linear_model\logistic.py:757: ConvergenceWarning: lbfgs failed to converge. Increase the number of iterations.
+  "of iterations.", ConvergenceWarning)
+C:\Users\Abhiruchi\Anaconda3\envs\gitproj2\lib\site-packages\sklearn\linear_model\logistic.py:757: ConvergenceWarning: lbfgs failed to converge. Increase the number of iterations.
+  "of iterations.", ConvergenceWarning)
+C:\Users\Abhiruchi\Anaconda3\envs\gitproj2\lib\site-packages\sklearn\linear_model\logistic.py:757: ConvergenceWarning: lbfgs failed to converge. Increase the number of iterations.
+  "of iterations.", ConvergenceWarning)
+C:\Users\Abhiruchi\Anaconda3\envs\gitproj2\lib\site-packages\sklearn\linear_model\logistic.py:757: ConvergenceWarning: lbfgs failed to converge. Increase the number of iterations.
+  "of iterations.", ConvergenceWarning)
+C:\Users\Abhiruchi\Anaconda3\envs\gitproj2\lib\site-packages\sklearn\linear_model\logistic.py:757: ConvergenceWarning: lbfgs failed to converge. Increase the number of iterations.
+  "of iterations.", ConvergenceWarning)
+C:\Users\Abhiruchi\Anaconda3\envs\gitproj2\lib\site-packages\sklearn\linear_model\logistic.py:757: ConvergenceWarning: lbfgs failed to converge. Increase the number of iterations.
+  "of iterations.", ConvergenceWarning)
+accuracy score for  Logistic regression 0.77526395173454
+precision_score for  Logistic regression 0.7889458571922687
+f1 score for  Logistic regression 0.7790523022696173
+recall score for  Logistic regression 0.77526395173454
+======== Naive Bayes ========
+accuracy score for  Naive Bayes 0.7476118652589241
+precision_score for  Naive Bayes 0.7552763549797488
+f1 score for  Naive Bayes 0.7447958280051803
+recall score for  Naive Bayes 0.7476118652589241
