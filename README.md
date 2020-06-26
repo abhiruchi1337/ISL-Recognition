@@ -1,6 +1,7 @@
 # ISL-Recognition
 Indian Sign Language Character Recognition 
-A simple computer application to detect single handed Indian sign language gestures using image processing and machine learning.
+A simple computer application to detect single handed Indian sign language gestures using image processing and machine learning. The paper can be found at:
+[ResearchGate](https://www.researchgate.net/publication/339336794_Classification_of_Sign_Language_Gestures_using_Machine_Learning) 
 ## Files:
 * ISL-Recognition Code:
   * surf_processing.py - contains convenience function _descriptor()_ that takes a single image, performs skin masking and SURF detection and returns the descriptors.
@@ -15,10 +16,10 @@ A simple computer application to detect single handed Indian sign language gestu
 
 ## Prerequisites and Dependencies
 * Python 3.5
-* OpenCV
+* OpenCV (3+)
 * Numpy
 * Pandas
 * Scikit-learn
-* MatPlotLib
+* Matplotlib
 * Pillow (Python Image Library)
 * Tkinter
